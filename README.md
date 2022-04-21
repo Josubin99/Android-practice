@@ -1,12 +1,11 @@
 ## 📝 Android Study with Kotlin
 
-******************
+-------------
 
 > ### 🎨 xml
- 
+     
 
-#### 1) [Variables](https://grand-jumper-7af.notion.site/Variables-3c6181cc1f174100bdefde2fe85b7be3)
-
+#### 1) [Variables](https://grand-jumper-7af.notion.site/Variables-3c6181cc1f174100bd 
 #### 2) [Types](https://grand-jumper-7af.notion.site/Types-f0118d6b6823439d8489ec545629658e)
 
 #### 3) [Null, Compiler](https://grand-jumper-7af.notion.site/Null-Compiler-2509246ccd204052bec83aed79ae89a8)
