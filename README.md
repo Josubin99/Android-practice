@@ -1,35 +1,29 @@
 ## 📝 Android Study with Kotlin
 
 
-> ### 🎨 [xml](https://grand-jumper-7af.notion.site/xml-5aed4b7eda1c4699868a0f612dc2accf) 
->    ⚙[Temes & Color](https://grand-jumper-7af.notion.site/Themes-Color-a16cb0949a4e48f8b6877284527d32cf)      
+> + ### 🎨 [xml](https://grand-jumper-7af.notion.site/xml-5aed4b7eda1c4699868a0f612dc2accf) 
+>   * #### ⚙ [Temes & Color](https://grand-jumper-7af.notion.site/Themes-Color-a16cb0949a4e48f8b6877284527d32cf)
+>   * #### 💡 [Pixel density](https://grand-jumper-7af.notion.site/Pixel-density-fc22e11367244be3baf435152263750f)          
+<br/><br/>
 
-#### 1) [Variables](https://grand-jumper-7af.notion.site/Variables-3c6181cc1f174100bd 
-#### 2) [Types](https://grand-jumper-7af.notion.site/Types-f0118d6b6823439d8489ec545629658e)
 
-#### 3) [Null, Compiler](https://grand-jumper-7af.notion.site/Null-Compiler-2509246ccd204052bec83aed79ae89a8)
 
-#### 4) [Operator](https://grand-jumper-7af.notion.site/Operator-19133f5d6fa7401592289d9a80993141)
-
-#### 5) [Conditions and Loop](https://grand-jumper-7af.notion.site/Conditions-and-Loop-e81306edc2cf4eddbbcfe51d63d28a66)
-
-#### 6) [Object, Class, Interface](https://grand-jumper-7af.notion.site/Object-ff299fa4ba164ec8a17027860364089f)
-
-#### 7) [Function](https://grand-jumper-7af.notion.site/Function-7cfc0c2ea26c40ef93e18af2318c36be)
-
-#### 8) [Data Class ](https://grand-jumper-7af.notion.site/Data-Class-df5a06de2e2b4b77bb2f133cd4aa86c6)
-
-#### 9) [Visibility Modifier](https://grand-jumper-7af.notion.site/e1f558ad547f494bb0208b2955ad2697)
-
-#### 10) [Collection](https://grand-jumper-7af.notion.site/Collection-4d88fc7aba4f44958d8a6a3ac7197e86)
-
-#### 11) [Object, companion object](https://grand-jumper-7af.notion.site/Object-companion-object-09fd8ea8cc134b27bdb31eeb27997406)
-
-#### 12) [Nested and inner class, Extension functions, Generics](https://grand-jumper-7af.notion.site/Function-7cfc0c2ea26c40ef93e18af2318c36be)
-
-#### 13) [Function types, Lambda](https://grand-jumper-7af.notion.site/Function-types-Lambda-bc9a974c6443495cb14b55a634e4f61e)
-
-#### 14) [Scope Functions](https://grand-jumper-7af.notion.site/Scope-Functions-56fed77dc26342d6a7ac69f633aa347b)
-
-#### 15) [Enum, Sealed, Stack](https://grand-jumper-7af.notion.site/enum-sealed-Stack-446a3c25fa4e44f19557c4a5bc0e19b0)
-
+> + ### 🔍 안드로이드
+>   * #### 📚 [AndroidManifest.xml](https://grand-jumper-7af.notion.site/AndroidManifest-xml-d6b3801e4d9347218a48f5431b4e47ae)
+>   * #### 📚 [Activity](https://grand-jumper-7af.notion.site/Activity-ae848b3451024a8db78fb0112ae96a33)
+>   * #### 📚 [Fragment](https://grand-jumper-7af.notion.site/Fragment-26ea44f0c46c4ef996c9e12413d6652b)
+>   * #### 📚 [Log](https://grand-jumper-7af.notion.site/Log-7dc55ad123624adfa44a63842c373271)
+>   * #### 📚 [Splash Screen](https://grand-jumper-7af.notion.site/Splash-Screen-0016f3eec0d04554852776313aebaf5d)
+>   * #### 📚 [화면간 이동](https://grand-jumper-7af.notion.site/9c041f3f551940ee9f64cd2bfdfdb599)
+>   * #### 📚 [Bottom Navigation](https://grand-jumper-7af.notion.site/Bottom-Navigation-efc123d71a0040f58edc43608f1a6e67)
+>   * #### 📚 [JSON](https://grand-jumper-7af.notion.site/JSON-25491cdea6e84f9da0c6af94aef7a61e)
+>   * #### 📚 [Glide](https://grand-jumper-7af.notion.site/Glide-61ee42a42a0249308b9f2d08ae3050c5)
+>   * #### 📚 [ViewPager](https://grand-jumper-7af.notion.site/ViewPager-972f6be65a804f53849e930c57b2b44e)
+>   * #### 📚 [GSON](https://grand-jumper-7af.notion.site/GSON-b5cdd165241b4a5b9a54080f80b30b60)
+>   * #### 📚 [App Architecture](https://grand-jumper-7af.notion.site/App-Architecture-8915d19fbcce41999009e1921721a3e5)
+>   * #### 📚 [UI Layer](https://grand-jumper-7af.notion.site/UI-Layer-a4a92fe8f0f54d03a1f43fc59617d064)
+>   * #### 📚 [ViewModel](https://grand-jumper-7af.notion.site/ViewModel-42f6863e55f44ad49d8fb84b187c6a1a)
+>   * #### 📚 [LiveData](https://grand-jumper-7af.notion.site/LiveData-1c7d9d5036dc4f2387992deb73e2ba09)
+>   * #### 📚 [Android KTX](https://grand-jumper-7af.notion.site/Android-KTX-e4df4a01afdb464194fab73a66c1ccdf)
+>   * #### 📚 [Data Layer](https://grand-jumper-7af.notion.site/Data-Layer-b493d4468a894657ac219a2f31e76ce0)
+>   * #### 📚 [Data Binding](https://grand-jumper-7af.notion.site/Data-Binding-b27875281af240c3ba6833dd401fb383)
