@@ -1,9 +1,8 @@
 ## 📝 Android Study with Kotlin
 
--------------
 
-> ### 🎨 xml
-     
+> ### 🎨 [xml](https://grand-jumper-7af.notion.site/xml-5aed4b7eda1c4699868a0f612dc2accf) 
+>         ⚙[Temes & Color](https://grand-jumper-7af.notion.site/Themes-Color-a16cb0949a4e48f8b6877284527d32cf)      
 
 #### 1) [Variables](https://grand-jumper-7af.notion.site/Variables-3c6181cc1f174100bd 
 #### 2) [Types](https://grand-jumper-7af.notion.site/Types-f0118d6b6823439d8489ec545629658e)
