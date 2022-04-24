@@ -2,7 +2,7 @@
 
 
 > + ### 🎨 [xml](https://grand-jumper-7af.notion.site/xml-5aed4b7eda1c4699868a0f612dc2accf) 
->   * #### ⚙ [Temes & Color](https://grand-jumper-7af.notion.site/Themes-Color-a16cb0949a4e48f8b6877284527d32cf)
+>   * #### ⚙ [Themes & Color](https://grand-jumper-7af.notion.site/Themes-Color-a16cb0949a4e48f8b6877284527d32cf)
 >   * #### 💡 [Pixel density](https://grand-jumper-7af.notion.site/Pixel-density-fc22e11367244be3baf435152263750f)          
 <br/><br/>
 
