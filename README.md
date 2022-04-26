@@ -18,7 +18,8 @@
 <br/><br/>
 
 > + ### ⚠ Error
->   * #### [빌드오류](https://grand-jumper-7af.notion.site/59270444848147d2b1098245ce7e6501)
+>   * #### [Build 오류](https://grand-jumper-7af.notion.site/59270444848147d2b1098245ce7e6501)
+>   * #### [Emulator 오류](https://grand-jumper-7af.notion.site/Emulator-bb50e1da55de4c1398128095415e4ceb)
 
 <br/><br/>
 
