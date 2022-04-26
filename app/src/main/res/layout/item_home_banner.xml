@@ -74,7 +74,7 @@
             android:layout_marginStart="12dp"
             android:layout_marginTop="12dp"
             android:contentDescription="@string/description_home_banner_thumbnail"
-            imageUrl="@{banner.productDetail.thumbnailImageUrl"
+            imageUrl="@{banner.productDetail.thumbnailImageUrl}"
             app:layout_constraintStart_toStartOf="@id/bg_banner_product_detail"
             app:layout_constraintTop_toTopOf="@id/bg_banner_product_detail" />
 
@@ -119,8 +119,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="6dp"
-            priceAmount="{@banner.productDetail.price}"
-            discountRate="{@banner.productDetail.discountRate}"
+            priceAmount="@{banner.productDetail.price}"
+            discountRate="@{banner.productDetail.discountRate}"
             app:layout_constraintStart_toEndOf="@id/tv_banner_detail_product_discount_rate"
             app:layout_constraintBottom_toBottomOf="@id/tv_banner_detail_product_discount_rate"
             tools:text="89,000원" />
@@ -131,7 +131,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="4dp"
             android:layout_marginBottom="1dp"
-            priceAmount="{@banner.productDetail.price}"
+            priceAmount="@{banner.productDetail.price}"
             app:layout_constraintStart_toEndOf="@id/tv_banner_detail_product_discount_price"
             app:layout_constraintBottom_toBottomOf="@id/tv_banner_detail_product_discount_rate"
             tools:text="100,000원" />
