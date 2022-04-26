@@ -26,6 +26,9 @@
 >   * #### 📝 [ViewModel](https://grand-jumper-7af.notion.site/ViewModel-42f6863e55f44ad49d8fb84b187c6a1a)
 >   * #### 📝 [LiveData](https://grand-jumper-7af.notion.site/LiveData-1c7d9d5036dc4f2387992deb73e2ba09)
 >   * #### 📝 [Data Layer](https://grand-jumper-7af.notion.site/Data-Layer-b493d4468a894657ac219a2f31e76ce0)
+>   * #### 📝 [Data Binding 적용](https://grand-jumper-7af.notion.site/Data-Binding-c31528fc61d84a838d3c169673da5919)
+>   * #### 📝 [Process and Thread](https://grand-jumper-7af.notion.site/Process-and-Thread-62cbb8f665c5432c9678ed8b24657149)
+>   * #### 📝 [REST API](https://grand-jumper-7af.notion.site/REST-API-6233c40295c2489fbcf68c70dffa2407)
 
 <br/><br/>
 
@@ -35,3 +38,4 @@
 >   * #### 📖 [GSON](https://grand-jumper-7af.notion.site/GSON-b5cdd165241b4a5b9a54080f80b30b60)
 >   * #### 📖 [Android KTX](https://grand-jumper-7af.notion.site/Android-KTX-e4df4a01afdb464194fab73a66c1ccdf)
 >   * #### 📖 [Data Binding](https://grand-jumper-7af.notion.site/Data-Binding-b27875281af240c3ba6833dd401fb383)
+>   * #### 📖 [Android Coroutine](https://grand-jumper-7af.notion.site/Android-Coroutine-c06dbbfbd8544ac2993652927b204599)
